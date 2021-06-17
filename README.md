@@ -1,7 +1,10 @@
 - 👋 Hi, I’m oriya cohen
 - 👀 I’m a physicst and i'm interested in deep machine learning and big data 
+<!---
 - 🌱 I’m currently learning SQL
 - 💞️ I’m looking to collaborate on image recognition
+--->
+
 - 📫 Reach me via email: oriyachn@gmail.com 
 
 <!---
